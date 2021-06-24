@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-*test*
+# 默认记录页
+## 暂时不做使用
 
-# test
-* test
-=======
-#test#
-~~~test2~~~
->>>>>>> 13bd5caa43298e9da335b43d28be5538bcca5dda
